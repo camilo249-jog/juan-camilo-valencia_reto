@@ -27,11 +27,6 @@ En esta primera fase se llevó a cabo el siguiente trabajo
  Mensajes de advertencia inmediatos si la temperatura se pasa de los límites.
  Un resumen final cuando termina la simulación que muestra la altitud máxima (apogeo), la aceleración máxima y la temperatura promedio.
 
-•	Diagrama de flujo del ejercicio
-Adjunto el diagrama de flujos hecho en draw.io
-#diagrama de flujo
-
- 
 •	Seudocódigo de las funciones
 
 // Cálculo de altitud integrado en el flujo principal o por asignación directa
