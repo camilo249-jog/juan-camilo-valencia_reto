@@ -30,7 +30,7 @@ En esta primera fase se llevó a cabo el siguiente trabajo
 •	Diagrama de flujo del ejercicio
 Adjunto el diagrama de flujos hecho en draw.io
 #diagrama de flujo
-![diagrama de flujo](diagrama_reto.png)
+
  
 •	Seudocódigo de las funciones
 
